@@ -918,10 +918,11 @@ footer{
    height: auto;
 }
 .support{
-   padding: 0;
-   position: absolute;
-   top: 445px;
-   right: 1787px;
+  background-color: #2b63d9;
+  padding: 32px 0;
+  position: relative; /* absolute'u kaldırdık */
+  margin-top: -166px;  
+  padding-left: 64px;  
 }
 .article{
    margin-bottom: 64px;
