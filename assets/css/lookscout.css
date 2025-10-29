@@ -399,7 +399,8 @@ aside{
    border-radius: 50%;
   }
   h4{
-   font-weight: 500;
+    margin-top: 16px;
+   font-weight: 400;
    font-style: Medium;
    font-size: 15px;
    line-height: 22px;
