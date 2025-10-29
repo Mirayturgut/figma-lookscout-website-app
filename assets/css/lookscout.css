@@ -694,9 +694,6 @@ footer{
 }
 
 @media(width >750px){
-  body{
-    background-color: #64BEF7;
-  }
  .container{
   width: 768px;
  }
