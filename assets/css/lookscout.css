@@ -962,6 +962,14 @@ footer{
   width: 1216px;
   margin: auto;
   margin-bottom: 64px;
+  h4{
+    width: 844px;
+    text-align: center;
+    margin: auto;
+  }
+  img{
+    margin-left: 515px;
+  }
 }
 .blog-cards{
   padding-inline: 80px;
